@@ -1,7 +1,3 @@
----
-description: Virtualizing Windows Server 2019 using VMware on Windows 10 Home
----
-
 # Virtualizing Windows Server 2019 on VMware
 
 ## Download Resources
